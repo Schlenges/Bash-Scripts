@@ -1,6 +1,6 @@
 # Useful Bash Scripts
 
-A collection of tiny bash scripts to make life easier ♡
+A collection of small bash scripts to make life easier ♡
 
 To make the scripts executable, run ```chmod +x <scriptname>```
 
